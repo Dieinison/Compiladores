@@ -1,0 +1,3 @@
+Comando para rodar:
+python2 main.py codigo.c
+Obs: por algum motivo colocar o código identado da um problema inexplicável, basta retirar a identação do código e rodar.
